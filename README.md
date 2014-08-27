@@ -1,2 +1,1 @@
-Core
-====
+Core Project Folder
